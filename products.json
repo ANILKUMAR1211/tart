@@ -1,0 +1,125 @@
+[
+    {
+      "name": "Smart Blood Glucose Monitor",
+      "price": 800,
+      "featured": true,
+      "company": "Apollo Pharmacy"
+    },
+    {
+      "name": "BP Monitors",
+      "price": 4000,
+      "featured": true,
+      "company": "BPL Medical"
+    },
+    {
+      "name": "Pregnancy Test Cassette",
+      "price": 120,
+      "company": "Apollo Pharmacy"
+    },
+    {
+      "name": "Digital Thermometer",
+      "price": 100,
+      "company": "Apollo Pharmacy"
+    },
+    {
+      "name": "Unisex Face Mask",
+      "price": 30,
+      "company": "Apollo Pharmacy"
+    },
+    {
+      "name": "Apollo Life Anti-Bac Wet Wipes",
+      "price": 100,
+      "company": "Apollo Pharmacy"
+    },
+    {
+      "name": "Air Purifiers",
+      "price": 500,
+      "company": "BPL Medical"
+    },
+    {
+      "name": "Weighing Scales",
+      "price": 250,
+      "company": "BPL Medical"
+    },
+    {
+        "name": "ORS Orange Flavour Powder",
+        "price": 20,
+        "featured": true,
+        "company": "Johnson & Johnson"
+      },
+      {
+        "name": "Johnson's cotton buds",
+        "price": 150,
+        "company": "Johnson & Johnson"
+      },
+      {
+        "name": "JOHNSON'S Baby Skincare Wipes",
+        "price": 150,
+        "company": "Johnson & Johnson"
+      },
+      {
+        "name": "JOHNSON'S Shampoo",
+        "price": 90,
+        "company": "Johnson & Johnson"
+      },
+      {
+        "name": "STETHOSCOPES",
+        "price": 360,
+        "company": "IndoSurgicals"
+      },
+      {
+        "name": "DISPOSABLE SURGICAL GOWN",
+        "price": 90,
+        "company": "IndoSurgicals"
+      },
+      {
+        "name": "VACCINE CARRIER BOX",
+        "price": 800,
+        "company": "IndoSurgicals"
+      },
+      {
+        "name": "Syringe",
+        "price": 90,
+        "company": "Hindustan"
+      },
+      {
+        "name": "DISPOSABLE CAP",
+        "price": 100,
+        "company": "IndoSurgicals"
+      },
+      {
+        "name": "DISPOSABLE GLOVES",
+        "price": 50,
+        "company": "IndoSurgicals"
+      },
+      {
+        "name": "Oxygen Masks",
+        "price": 120,
+        "company": "Hindustan"
+      },
+      {
+        "name": "Blood Processing Machine",
+        "price": 90,
+        "company": "Medtronic plc"
+      },
+      {
+        "name": "Navigation System",
+        "price": 8000,
+        "company": "Medtronic plc"
+      },
+      {
+        "name": "Assay Kits",
+        "price": 120,
+        "company": "Danaher Corporation"
+      },
+      {
+        "name": "Laboratory Microscopes",
+        "price": 60000,
+        "company": "Danaher Corporation"
+      },
+      {
+        "name": "Oxygen Masks",
+        "price": 120,
+        "company": "Danaher Corporation"
+      }
+  ]
